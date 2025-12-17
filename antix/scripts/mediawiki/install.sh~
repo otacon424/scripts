@@ -1,6 +1,0 @@
-
-:#Install script for mediawiki
-
-#Installing prerequisites
-echo "Installing prerequisite packages"
-
